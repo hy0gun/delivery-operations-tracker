@@ -18,5 +18,3 @@ Read validate/load/save first, then add_package/update_status/statistics, then m
 ## Limits
 No live GPS, delivery service integration, authentication, routing optimization, or concurrency. Backups are one prior version and power-loss durability is not guaranteed. CSV formula-like external values are not sanitized; use fictional data.
 
-## Your contributions
-Generated implementation. Record your own changes and verification here as you make them.
