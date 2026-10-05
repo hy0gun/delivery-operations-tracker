@@ -1,0 +1,14 @@
+{
+  "PK100": {
+    "address": "10 Example Lane",
+    "status": "Pending"
+  },
+  "PK101": {
+    "address": "20 Demo Street",
+    "status": "Delivered"
+  },
+  "PK102": {
+    "address": "30 Sample Road",
+    "status": "Failed"
+  }
+}
